@@ -11,8 +11,8 @@ A simple URL shortener service that allows users to shorten long URLs and track 
 ## Tech Stack
 
 - **Frontend:** HTML, Tailwind CSS
-- **Backend:** Node.js with Express (or specify your backend technology here)
-- **Database:** (Specify your database if applicable, e.g., MongoDB, PostgreSQL)
+- **Backend:** Node.js with Express 
+- **Database:** MongoDB
 
 ## Installation
 
